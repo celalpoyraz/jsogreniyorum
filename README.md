@@ -1,2 +1,2 @@
 # jsogreniyorum
- JavaScript Örnek Tutorial
+ JavaScriptTutorial Eğitimi -Kurslar Bölümüne Tıklayarak Eğitimlere Ulaşabilirsiniz...

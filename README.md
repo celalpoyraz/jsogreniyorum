@@ -1,2 +1,2 @@
 # jsogreniyorum
- JavaScriptTutorial Eğitimi -Kurslar Bölümüne Tıklayarak Eğitimlere Ulaşabilirsiniz...
+ 2.hafta internet teknolojileri ödevi

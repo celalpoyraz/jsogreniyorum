@@ -1,2 +1,2 @@
 # jsogreniyorum
- 2.hafta internet teknolojileri ödevi
+ internet teknolojileri uzaktan eğitim  2.hafta ödevi
